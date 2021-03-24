@@ -1,0 +1,46 @@
+{
+  "name": "mellow-trips",
+  "version": "1.0.0",
+  "author": "DJ Guenther",
+  "license": "ISC",
+  "description": "## Overview",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daniel-j-guenther/mellow-trips-travel-app.git"
+  },
+  "keywords": [
+    "RESTful",
+    "Secure Environment Variables",
+    "Unit Testing",
+    "Webpack 5",
+    "Workbox"
+  ],
+  "scripts": {
+    "test": "jest",
+    "start": "node src/server/server.js",
+    "build-prod": "webpack --config webpack.prod.js && npm start",
+    "build-dev": "webpack-dev-server --config webpack.dev.js --port 3072 --open"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "babel-loader": "^8.2.2",
+    "body-parser": "^1.19.0",
+    "chokidar": "^3.5.1",
+    "cors": "^2.8.5",
+    "css-loader": "^5.1.4",
+    "express": "^4.17.1",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^8.0.18",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack-dev-server": "3.11.2"
+  }
+}
