@@ -1,66 +1,60 @@
-# Udacity Nanodegree P5
+# Mellow Trips Travel Planner
 
-### Graduation Project
+### Udacity Nanodegree P5: Graduation Project
 
-The aim of this project is to put all of the skills we have learned into one project by building our own custom travel app.
+The aim of this project is to put all of the skills we have learned into one project by building our own custom travel app. To learn more see [Udacity Frontend Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) the official Nanodegree Program Page.
 
-To learn more see Udacity's [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) official program.
-
-### Project Overview
-
-I have been working on the front and backend since 2015 I decided to use this project to showcase many additional features that I believe will be of value to any employer.
+To view the Mellow Trips live production web app [Click Here](https://mellowtrips.founddesigns.app/).
 
 #### Project Instructions (Requirements)
 
-- Node.js
-- Webpack
+- Node.js, Express
+- HTML, CSS & JavaScript
+- Webpack (+ Plugins & Loaders)
+- Workbox (Service Workers)
+- 
 - 
 
-#### Additional Technologies (Frontend & Backend)
+#### Additional Features (Personal Experience & Skills)
 
-BACKEND:
 * Infrastructure: Google Cloud Compute Engine
 * Dedicated Server: 2GB RAM; 15GB Storage; 2x CPU
-* Operating Software: Linux Ubuntu 21.04
-* Web Host Manager: Plesk Essentials
-* Web host: https://mellowtrips.founddesigns.app/
-
-FRONTEND:
+* Operating Software: Linux Ubuntu 20.04
+* Web Host Manager: Plesk Essential
+* Plesk VPS: https://mellowtrips.founddesigns.app/
 * Codebase: Webpack V5
 * Codebase: TypeScript
 * Codebase: PWA Approved
-
-View [Mellow Trips Live](https://mellowtrips.founddesigns.app/) Webapp!
 
 # Quickstart
 
 ### Install
 
 ```
-    $ npm install
+$ npm install
 ```
 
 ### Build Commands
 
-#### Production Environment:
+##### Production Environment:
 
 ```
-    $ npm run build-prod
+$ npm run build-prod
 ```
 
-#### Development Environment:
+##### Development Environment:
 
 ```
-    $ npm run build-dev
+$ npm run build-dev
 ```
 
-#### Unit Testing with Jest:
+##### Unit Testing with Jest:
 
 ```
-    $ npm run test
+$ npm run test
 ```
 
-#### package.json Dependencies 
+### Dependencies (package.json)
 
 ```
 {
