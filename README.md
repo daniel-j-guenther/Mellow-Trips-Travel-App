@@ -1,4 +1,4 @@
-# Mellow Trips Travel Planner
+# Mellow Trips Travel Planner <img src="https://img.shields.io/badge/status-in%20development-green" alt="In Development">
 
 ### Udacity Nanodegree P5: Graduation Project
 
