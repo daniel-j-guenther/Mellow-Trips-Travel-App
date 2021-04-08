@@ -4,7 +4,7 @@
 
 The aim of this project is to put all of the skills we have learned into one project by building our own custom travel app. Several additional features have been incorporated into this project submission for portfolio reasons as seen below. To learn more see [Udacity Frontend Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) the official Nanodegree Program Page.
 
-#### Project Instructions (Requirements)
+#### Project Requirements ([See RUBRIC](https://review.udacity.com/#!/rubrics/2669/view))
 
 - Node.js, Express
 - HTML, CSS & JavaScript
@@ -14,7 +14,7 @@ The aim of this project is to put all of the skills we have learned into one pro
 - RESTful
 - SASS
 
-#### Additional Features (Personal Experience & Skills)
+#### Additional Features (For portfolio)
 
 * Infrastructure: Google Cloud Compute Engine
 * Dedicated Server: 2GB RAM; 15GB Storage; 2x CPU
