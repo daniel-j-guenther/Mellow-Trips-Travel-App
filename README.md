@@ -26,7 +26,8 @@ The aim of this project is to put all of the skills we have learned into one pro
 
 To view Mellow Trips production web application [Click Here](https://mellowtrips.founddesigns.app/).
 
-# Quickstart
+## Quickstart
+-------------
 
 ### Install
 
@@ -54,6 +55,7 @@ $ npm run build-dev
 $ npm run test
 ```
 
-# License
+## License
+----------
 
 `Mellow Trips` is personal work, using the [GNU General Public License, version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html).
