@@ -8,23 +8,23 @@ To view Mellow Trips live web application [click here](https://mellowtrips.found
 
 #### Project Requirements ([see rubric](https://review.udacity.com/#!/rubrics/2669/view))
 
-- Node.js, Express
-- HTML, CSS & JavaScript
-- Webpack V4 (Plugins & Loaders)
-- Workbox (Service Workers)
-- Responsive
-- RESTful
-- SASS
+- [x] Node.js, Express
+- [x] HTML, CSS & JavaScript
+- [x] Webpack V4 (Plugins & Loaders)
+- [ ] Workbox (Service Workers)
+- [ ] Responsive
+- [ ] RESTful
+- [ ] SASS
 
 #### Additional Features (_portfolio value_)
 
-* Infrastructure: Google Cloud Compute Engine
-* Dedicated Server: 2GB RAM; 15GB Storage; 2x CPU
-* Operating Software: Linux Ubuntu 20.04
-* Web Host Manager: Plesk Essential
-* Codebase: Webpack V5
-* Codebase: TypeScript
-* Codebase: PWA Approved
+- [x] Infrastructure: Google Cloud Compute Engine
+- [x] Dedicated Server: 2GB RAM; 15GB Storage; 2x CPU
+- [x] Operating Software: Linux Ubuntu 20.04
+- [x] Web Host Manager: Plesk Essential
+- [x] Codebase: Webpack V5
+- [ ] Codebase: TypeScript
+- [ ] Codebase: PWA Approved
 
 To learn more about this program see the [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) official page.
 
