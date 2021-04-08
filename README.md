@@ -2,9 +2,7 @@
 
 ### Udacity Nanodegree P5: Graduation Project
 
-The aim of this project is to put all of the skills we have learned into one project by building our own custom travel app. To learn more see [Udacity Frontend Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) the official Nanodegree Program Page.
-
-To view the Mellow Trips live production web app [Click Here](https://mellowtrips.founddesigns.app/).
+The aim of this project is to put all of the skills we have learned into one project by building our own custom travel app. Several additional features have been incorporated into this project submission for portfolio reasons as seen below. To learn more see [Udacity Frontend Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) the official Nanodegree Program Page.
 
 #### Project Instructions (Requirements)
 
@@ -25,6 +23,8 @@ To view the Mellow Trips live production web app [Click Here](https://mellowtrip
 * Codebase: Webpack V5
 * Codebase: TypeScript
 * Codebase: PWA Approved
+
+To view Mellow Trips production web application [Click Here](https://mellowtrips.founddesigns.app/).
 
 # Quickstart
 
