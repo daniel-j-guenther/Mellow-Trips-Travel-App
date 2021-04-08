@@ -4,6 +4,8 @@
 
 The aim of this project is to put all of the skills we have learned into one project by building our own custom travel app. Several **additional features** have been added for portfolio value, as seen below.
 
+To view Mellow Trips live web application [click here](https://mellowtrips.founddesigns.app/).
+
 #### Project Requirements ([see rubric](https://review.udacity.com/#!/rubrics/2669/view))
 
 - Node.js, Express
@@ -24,7 +26,7 @@ The aim of this project is to put all of the skills we have learned into one pro
 * Codebase: TypeScript
 * Codebase: PWA Approved
 
-To view Mellow Trips live web application [click here](https://mellowtrips.founddesigns.app/). To learn more about this program see the [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) official page.
+To learn more about this program see the [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) official page.
 
 ## Quickstart
 
