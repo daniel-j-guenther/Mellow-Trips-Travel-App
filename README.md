@@ -8,10 +8,11 @@ The aim of this project is to put all of the skills we have learned into one pro
 
 - Node.js, Express
 - HTML, CSS & JavaScript
-- Webpack (+ Plugins & Loaders)
+- Webpack4 (Plugins & Loaders)
 - Workbox (Service Workers)
-- 
-- 
+- Responsive
+- RESTful
+- SASS
 
 #### Additional Features (Personal Experience & Skills)
 
@@ -19,7 +20,6 @@ The aim of this project is to put all of the skills we have learned into one pro
 * Dedicated Server: 2GB RAM; 15GB Storage; 2x CPU
 * Operating Software: Linux Ubuntu 20.04
 * Web Host Manager: Plesk Essential
-* Plesk VPS: https://mellowtrips.founddesigns.app/
 * Codebase: Webpack V5
 * Codebase: TypeScript
 * Codebase: PWA Approved
@@ -54,19 +54,6 @@ $ npm run build-dev
 $ npm run test
 ```
 
-### Dependencies (package.json)
+# License
 
-```
-{
-  "name": "anchor",
-  "main": "main",
-  "browserify": {
-    "transform": "can.viewify"
-  }
-}
-```
-
-### License
-
-`can.viewify` is a public domain work, dedicated using
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+`Mellow Trips` is personal work, using the [GNU General Public License, version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html).
