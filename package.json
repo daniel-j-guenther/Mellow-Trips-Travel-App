@@ -2,7 +2,7 @@
   "name": "mellow-trips",
   "version": "1.0.0",
   "author": "DJ Guenther",
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "description": "## Overview",
   "repository": {
     "type": "git",
